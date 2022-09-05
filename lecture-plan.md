@@ -6,7 +6,7 @@
 |      | 2  | 04 [The Abstraction: The Process](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf)                                                                                                                 |
 |      | 3  | 05 [Interlude: Process API](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf)                                                                                                                         |
 | 35   | 1  | 06 [Mechanism: Limited Direct Execution](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf)                                                                                                     |
-|      | 2  | 07 [Scheduling: Introduction](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br /> [Scheduling: Multi-Level Feedback Queue](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf)          |
+|      | 2  | 07 [Scheduling: Introduction](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br /> 08 [Scheduling: Multi-Level Feedback Queue](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf)          |
 |      | 3  | 09 [Scheduling: Proportional Share](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-lottery.pdf)                                                                                                       |
 | 36   | 1  | No Lecture                                                                                                                                                                                              |
 |      | 2  | No Lecture                                                                                                                                                                                              |
@@ -22,7 +22,7 @@
 |      | 3  | 19 [Paging: Faster Translations (TLBs)](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-tlbs.pdf)                                                                                                             |
 | 40   | 1  | 20 [Paging: Smaller Tables](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-smalltables.pdf)                                                                                                                  |
 |      | 2  | 21 [Beyond Physical Memory: Mechanisms](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys.pdf)                                                                                                       |
-|      | 3  | 22 [Beyond Physical Memory: Policies](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf) <br /> [Complete Virtual Memory Systems](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-complete.pdf) |
+|      | 3  | 22 [Beyond Physical Memory: Policies](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf) <br /> 23 [Complete Virtual Memory Systems](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-complete.pdf) |
 | 41   | 1  | 26 [Concurrency: An Introduction](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf)                                                                                                             |
 |      | 2  | 27 [Interlude: Thread API](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf)                                                                                                                      |
 |      | 3  | 28 [Locks](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf)                                                                                                                                    |
