@@ -4,13 +4,7 @@ The course is based on this [textbook](http://pages.cs.wisc.edu/~remzi/OSTEP/):
 Operating Systems: Three Easy Pieces. Version 1.00.
 Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
 
-Syllabus include Chapters 2-32, excluding the dialogue chapters.
-
-Chapters 33-49 are defined as *read on your own* and will *not* be subject to examination.
-
-## Excluded Subchapters
-
-- Chapter 9.7 The Linux Completely Fair Scheduler (CFS) -- the interested student may read this, but there are better descriptions of the Linux scheduler elsewhere.
+The syllabus include the chapers in the lecture plan (chapers 2-40)
 
 ## Syllabus also include
 
